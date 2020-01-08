@@ -1,0 +1,4 @@
+Rigid Body Constraint Examples by Blender Sensei (Seth Fentress) Copyright 2016
+
+Visit blendersensei.com for video tutorials on creating your own rigid body
+constraints in Blender and much more. Subscribe at Youtube.com/blendersensei
